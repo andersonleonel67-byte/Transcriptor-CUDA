@@ -1,0 +1,8 @@
+.venv/
+build/
+cache/
+outputs/
+tools/
+dist/
+*.log
+
