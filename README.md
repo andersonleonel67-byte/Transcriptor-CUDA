@@ -65,3 +65,7 @@ Los modelos descargados, el JDK portable, el entorno virtual, las compilaciones 
 ## Estado
 
 Aplicación funcional para Windows. La comprobación integral puede ejecutarse con `scripts/smoke-test.ps1`; genera audio de prueba local y valida el backend sin requerir archivos del usuario.
+
+## Licencia
+
+El código original se distribuye bajo MIT. Faster-Whisper, los modelos descargados y el JDK conservan sus licencias respectivas.
